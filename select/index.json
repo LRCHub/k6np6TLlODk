@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "カーストルーム",
+  "base_artist": "ZAQ",
+  "createdAt": "2026-01-13T22:41:12.671497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カーストルーム",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/01_カーストルーム_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カーストルーム (TV Size)",
+      "artist": "ZAQ",
+      "has_synced": false,
+      "path": "select/02_カーストルーム_(TV_Size)_ZAQ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カーストルーム",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/03_カーストルーム_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カーストルーム (Off Vocal)",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/04_カーストルーム_(Off_Vocal)_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カーストルーム - Caste Room",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/05_カーストルーム_-_Caste_Room_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カーストルーム",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/06_カーストルーム_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カーストルーム",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/07_カーストルーム_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カーストルーム (Off Vocal)",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/08_カーストルーム_(Off_Vocal)_ZAQ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カーストルーム",
+      "artist": "ZAQ",
+      "has_synced": false,
+      "path": "select/pl_01_カーストルーム_ZAQ.txt"
+    }
+  ]
+}
